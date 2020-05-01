@@ -13,4 +13,4 @@ usage
         
         
         
-        The third parameter to the validation rule will be consistent to the options of the Hash Facade.
+The third parameter to the validation rule will be consistent to the options of the Hash Facade.
